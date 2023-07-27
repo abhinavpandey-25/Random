@@ -2,5 +2,5 @@ git commands to unstage the changes is git restore -staged filename
 cat command is used to open file in bash
 vim filename is used to write on file using bash
 if we wanted to save our work without making a commit can be done via git stash
-
+all the new commits are added to the head
 
