@@ -1,4 +1,4 @@
-git commands to unstage the changes is git --restore staged filename
+git commands to unstage the changes is git restore --staged filename
 cat command is used to open file in bash
 vim filename is used to write on file using bash
 
